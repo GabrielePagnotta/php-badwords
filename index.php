@@ -19,4 +19,6 @@ echo $frase;
 echo "<br>";
 echo "il testo è lungo: $lunghezza1 caratteri";
 
+?>
+
 
